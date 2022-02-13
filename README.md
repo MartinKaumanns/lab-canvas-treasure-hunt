@@ -62,6 +62,7 @@ const height = canvas.height;
 
 // Iteration 1
 function drawGrid() {
+  
   // TODO: write the code of the function
 }
 
